@@ -9,9 +9,9 @@ Creates one R script called run_analysis.R that does the following.
 
 1. Merges the training and the test sets from the UCI HAR Dataset to create one data set.
   
-  Files read in from the UCI HAR Dataset folder:
+  Files read in from the current working directory:
   
-		Trains set:   test/subject_test.txt , test/X_test.txt , test/y_test.txt
+		Training set:   test/subject_test.txt , test/X_test.txt , test/y_test.txt
     
 		Subject set: subject_train.txt, train/X_train.txt, train/y_train.txt
     
